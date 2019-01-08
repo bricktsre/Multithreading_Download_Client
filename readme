@@ -1,0 +1,6 @@
+Project for CS 449 class. Client downloads a single file from servers concurrently. Connection to servers uses the TCP protocol. 
+
+large.txt is an example file for simple testing
+
+serv.c was written entirely by Jack Lange of the University of Pittsburgh
+client.c was written entirely by myself
